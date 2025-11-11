@@ -1,0 +1,2 @@
+orderid:1001 |customer:alice | item:T-shirt | qty:2 
+orderid:1002 |customer:anu |item:mug|qty:2|price:200
